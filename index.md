@@ -27,8 +27,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-- I like the instructors and Lecturers
-- I like how it is a class hosted by the USB and it prepares you for opportunities in the future
+- **I like the instructors and Lecturers**
+- _I like how it is a class hosted by the USB and it prepares you for opportunities in the future_
 - I like how chill the course is.
 - I like how I am learning terminal and how to navigate and use GitHub. 
 
